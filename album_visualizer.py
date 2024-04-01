@@ -1,5 +1,4 @@
 import spotipy
-import numpy as np
 from spotipy.oauth2 import SpotifyOAuth
 import streamlit as st
 
